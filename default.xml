@@ -26,7 +26,9 @@
   
   <project path="device/samsung/fortuna-common" name="Samsung-MSM8916/android_device_samsung_fortuna-common" remote="github" revision="cm-12.1" />
   <project path="device/samsung/fortunave3g" name="Samsung-MSM8916/android_device_samsung_fortunave3g" remote="github" revision="cm-12.1" />
-
+  <project path="vendor/samsung/fortuna-common" name="Samsung-MSM8916/android_vendor_samsung_fortuna-common" remote="github" revision="cm-12.1" />
+  <project path="vendor/samsung/fortunave3g" name="Samsung-MSM8916/android_vendor_samsung_fortunave3g" remote="github" revision="cm-12.1" />
+  
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
