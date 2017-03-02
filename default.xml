@@ -39,12 +39,12 @@
   <project path="kernel/samsung/fortunaxx" name="Samsung-MSM8916/android_kernel_samsung_msm8916" remote="github" revision="cm-13.0" />
   
   <!-- Extras -->
-  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-13.0" />
-  <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" remote="github" revision="cm-13.0" />
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-13.0" />
-  <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0" />
-  <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-13.0" />
+  <project path="external/mm-dash" name="LineageOS/android_external_mm-dash" remote="github" revision="cm-13.0" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-13.0" />
+  <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-13.0" />
+  <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
   
   <project path="android" name="LineageOS/android" />
   <project path="abi/cpp" name="LineageOS/android_abi_cpp" groups="pdk" />
