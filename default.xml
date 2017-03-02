@@ -23,16 +23,22 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
+  <!-- Device Trees -->
   <project path="device/samsung/fortunaxx-common" name="Samsung-MSM8916/android_device_samsung_fortunaxx-common" remote="github" revision="cm-13.0" />
   <project path="device/samsung/fortunave3g" name="Samsung-MSM8916/android_device_samsung_fortunave3g" remote="github" revision="cm-13.0" />
   <project path="device/samsung/fortuna3g" name="Samsung-MSM8916/android_device_samsung_fortuna3g" remote="github" revision="cm-13.0" />
   <project path="device/samsung/fortunafz" name="Samsung-MSM8916/android_device_samsung_fortunafz" remote="github" revision="cm-13.0" />
+  
+  <!-- Vendors -->
   <project path="vendor/samsung/fortunaxx-common" name="Samsung-MSM8916/android_vendor_samsung_fortunaxx-common" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/fortunave3g" name="Samsung-MSM8916/android_vendor_samsung_fortunave3g" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/fortuna3g" name="Samsung-MSM8916/android_vendor_samsung_fortuna3g" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/fortunafz" name="Samsung-MSM8916/android_vendor_samsung_fortunafz" remote="github" revision="cm-13.0" />
+  
+  <!-- Kernel -->
   <project path="kernel/samsung/fortunaxx" name="Samsung-MSM8916/android_kernel_samsung_msm8916" remote="github" revision="cm-13.0" />
   
+  <!-- Extras -->
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-13.0" />
   <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" remote="github" revision="cm-13.0" />
