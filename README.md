@@ -2,7 +2,7 @@ CyanogenMod
 
 Getting Started (-jКоличество потоков)
 
-repo init -u git://github.com/Samsung-MSM8916/android.git -b lineage-14.1
+repo init -u git://github.com/Samsung-MSM8916/android.git -b cm-14.1
 
 repo sync -j25
 
